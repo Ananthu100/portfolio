@@ -47,7 +47,7 @@ function Projects() {
             <ProjectCard
               imgPath={editor}
               isBlog={false}
-              title="E-Commerce Website"
+              title="Book-Store Website"
               description="The basic idea of the project is to store the users book which acts as library.It stores the name of the book,author and publishYear.The features of this project includes all the CRUD operations like CREATE , READ , UPDATE and Deleting of the books.The user can view the details in 'table' or in a 'Card' form. This project is developed using 'MERN STACK' which includes technolgies like HTML , TailWind CSS , JAVASCRIPT , ReactJS(Vite) , NodeJS , MongoDB. "
               ghLink="https://github.com/Ananthu100/bookstore"
               demoLink="https://bookstore-drab-phi.vercel.app/"
